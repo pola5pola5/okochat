@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ayana/.dotnet/store/|arch|/|tfm|",
+      "/Users/ayana/.nuget/packages"
+    ]
+  }
+}
